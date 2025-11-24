@@ -104,11 +104,6 @@
     "Image": "rbxassetid://126180702535007",
     "TrackId": "2RJ7Q3gHb6cOeNBioSARni"
   },
-  "เมียบ่ได้แต่ง": {
-    "Id": 120832431195548,
-    "Image": "rbxassetid://98866662664819",
-    "TrackId": "5NoOB1VbvdZaW1MVp0IBFj"
-  },
   "น้ำลาย": {
     "Id": 105075423406755,
     "Image": "rbxassetid://86510418750531",
@@ -2279,11 +2274,6 @@
     "Image": "rbxassetid://120520621359524",
     "TrackId": "5kphwAzHksSZrkrQbQdfXy "
   },
-  "ตอนไหน" : {
-    "Id": 91525466291385,
-    "Image": "rbxassetid://102426075174170",
-    "TrackId": "4UtIXOybDNbnAWZbiWgWBt "
-  },
   "กรุงเทพมหานคร" : {
     "Id": 105884333561893,
     "Image": "rbxassetid://70571383420370",
@@ -2303,11 +2293,6 @@
     "Id": 87546709159496,
     "Image": "rbxassetid://74105096036713",
     "TrackId": "7CfldwMr1T6JaiHVkMCsqY "
-  },
-  "คนรักหรือแค่รู้จัก" : {
-    "Id": 74160330279899,
-    "Image": "rbxassetid://101785358164702",
-    "TrackId": "4z0iz3A382XVUKirET6DJW "
   },
    "เต่างอย" : {
     "Id": 98304370039791,
@@ -2364,20 +2349,10 @@
     "Image": "rbxassetid://126726670575175",
     "TrackId": "4vcBnuub0T3yZP8Onqi9Z6 "
   },
-  "HOT & COLD" : {
-    "Id": 134689148912064,
-    "Image": "rbxassetid://122575015149803",
-    "TrackId": "32VqVoLwv5FASA9Ih00IY9 "
-  },
   "สั่น" : {
     "Id": 83919366305133,
     "Image": "rbxassetid://75916973347801",
     "TrackId": "28kcqEXn8UnBDVSQjye1iq "
-  },
-  "ความรักดีๆอยู่ที่ไหน" : {
-    "Id": 84307838277319,
-    "Image": "rbxassetid://120848865499638",
-    "TrackId": "6JBgDX84U9IFOFK5kkkJ2g "
   },
   "อ้ายพามา" : {
     "Id": 138862003527342,
@@ -2459,16 +2434,6 @@
     "Id": 102774447209608,
     "Image": "rbxassetid://92750855402101",
     "TrackId": "7z7Oaxx7VNCLryPWD1aMbd "
-  },
-  "แค่บอกว่ารักเธอ" : {
-    "Id": 93550585976287,
-    "Image": "rbxassetid://99986524972061",
-    "TrackId": "5V5MJ8GiMoVwuR1hIFdFE2 "
-  },
-  "Loop(ฉันจึงวนกลับมา)" : {
-    "Id": 103391071345373,
-    "Image": "rbxassetid://87420913671902",
-    "TrackId": "2wyMhqD3UtR8Ucg59UZhZd "
   },
   "หอมปากหอมคอ" : {
     "Id": 126598607766604,
