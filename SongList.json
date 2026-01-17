@@ -2189,11 +2189,6 @@
     "Image": "rbxassetid://127616243592238",
     "TrackId": "0HGKMt77QX3u4wMFw7OAXm "
   },
-  "ไม่รักก็คิดถึง" : {
-    "Id": 105381266751851,
-    "Image": "rbxassetid://127616243592238",
-    "TrackId": "2vmIIFnZKDH4KbDCShZqnL "
-  },
   "ไม่ใกล้ไม่ไกล" : {
     "Id": 103531539941493,
     "Image": "rbxassetid://114014729998918",
@@ -2841,6 +2836,7 @@
     "Image": "rbxassetid://80776120091870",
     "TrackId": "5RR9RhZDLTKp4XNsTZsV9o "
   }
+<<<<<<< HEAD
 
 
   
@@ -2849,6 +2845,8 @@
 
 
 
+=======
+>>>>>>> ac38eff7fc0c327b4bc5d16edf7d786010257564
 }
 
 
