@@ -2254,11 +2254,7 @@
     "Image": "rbxassetid://78474676126645",
     "TrackId": "6G77J9eWr2lkPIZLLYYbBm "
   },
-  "รักน้อง" : {
-    "Id": 87546709159496,
-    "Image": "rbxassetid://74105096036713",
-    "TrackId": "7CfldwMr1T6JaiHVkMCsqY "
-  },
+
    "เต่างอย" : {
     "Id": 98304370039791,
     "Image": "rbxassetid://126964875560891",
@@ -2828,6 +2824,8 @@
     "Image": "rbxassetid://80776120091870",
     "TrackId": "5RR9RhZDLTKp4XNsTZsV9o "
   }
+
+
 }
 
 
