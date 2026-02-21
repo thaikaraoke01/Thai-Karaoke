@@ -3170,7 +3170,7 @@
     "Image": "rbxassetid://131537537384937",
     "TrackId": "3Gt69Gd4ygAvFoLN1ADOYZ "
   },
-"Long Trip" : {
+  "Long Trip" : {
     "Id": 121004178207319,
     "Image": "rbxassetid://118182381153313",
     "TrackId": "3APTfacJInLXvqOG4wFocf "
@@ -3180,7 +3180,88 @@
     "Id": 137660146933285,
     "Image": "rbxassetid://104840083632517",
     "TrackId": "4eJjZiFWaHn4Af4gBkmlty "
+  },
+   "นานเท่าไรก็รอ" : {
+    "Id": 123399425486468,
+    "Image": "rbxassetid://139110175384046",
+    "TrackId": "6Yg3f2tn8ezy4JYb1vxcwW "
+  },
+   "รักไม่พอ" : {
+    "Id": 137072352816806,
+    "Image": "rbxassetid://89970732084667",
+    "TrackId": "6G9TII6zdEV0iWuAp999dv "
+  },
+   "หว่าเว้" : {
+    "Id": 89908313125137,
+    "Image": "rbxassetid://112653260576398",
+    "TrackId": "6Rtndjy167F7JuJoKy5NqN "
+  },
+   "ดวงเดือน" : {
+    "Id": 102254549085140,
+    "Image": "rbxassetid://122686371218846",
+    "TrackId": "1XwR4aG1V8IgMNDHy1HqPx "
+  },
+   "เงาของเมื่อวาน" : {
+    "Id": 117655540321931,
+    "Image": "rbxassetid://98025919230810",
+    "TrackId": "0PfVOk0L6f5wzaa3JsnAOv "
+  },
+   "ทีละน้อย" : {
+    "Id": 121550775703392,
+    "Image": "rbxassetid://135921523954105",
+    "TrackId": "5C4Fbt5hEDZQlEXBcIONLc "
+  },
+   "จมน้ำตา" : {
+    "Id": 103446445169109,
+    "Image": "rbxassetid://131965182543259",
+    "TrackId": "2XjFDW5zp88mxgk1wjE7kb "
+  },
+   "พริบตา" : {
+    "Id": 137740765992656,
+    "Image": "rbxassetid://82406600122273",
+    "TrackId": "66t4DQjeDsDUmA1WxKgnLU "
+  },
+  "ไม่ยอมตัดใจ" : {
+    "Id": 115285374072593,
+    "Image": "rbxassetid://92475655224690",
+    "TrackId": "1qSIdSrNI5nfLyzrMnGeNC "
+  },
+  "ใจความสำคัญ" : {
+    "Id": 114722310544815,
+    "Image": "rbxassetid://112775211819648",
+    "TrackId": "1QVDZtpOnbu9nt8qzzRPqY "
+  },
+  "ที่พัก(ชั่วคราว)" : {
+    "Id": 110496589493376,
+    "Image": "rbxassetid://121571380134483",
+    "TrackId": "5vF2QinTZo2gyblZG1FZWq "
+  },
+  "Move On แบบใด" : {
+    "Id": 120595811678293,
+    "Image": "rbxassetid://122686371218846",
+    "TrackId": "53XeQvCYruEEHVDgWmraKq "
+  },
+  "เมื่อรักฉันเกิด" : {
+    "Id": 100488556248514,
+    "Image": "rbxassetid://70397304970704",
+    "TrackId": "4MkQwRqhZwIT2fbTmK2KHH "
+  },
+  "ฤดูใหม่" : {
+    "Id": 102393724011792,
+    "Image": "rbxassetid://89608982342201",
+    "TrackId": "4qziS8ET8tMZwNkxQvJRxw "
+  },
+  "ถ่านไฟเก่า" : {
+    "Id": 95881651558876,
+    "Image": "rbxassetid://109169165155528",
+    "TrackId": "0K6FhokeIPrU0nQhuVqNYh "
+  },
+  "คนที่แสนดี (feat. Q Flure)" : {
+    "Id": 122696866979123,
+    "Image": "rbxassetid://133608245201248",
+    "TrackId": "1FjA9VTMaVfSoGTGUna1ZP "
   }
+  
 
 
 
