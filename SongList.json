@@ -3312,11 +3312,6 @@
     "Image": "",
     "TrackId": "4L6PI5chD4KigRsrhOsnDx "
   },
-  "สาวเกาหลี" : {
-    "Id": 124061848423611,
-    "Image": "",
-    "TrackId": "7CiLAO48InXRfTtpSBK7Nu "
-  },
   "home" : {
     "Id": 124751943439175,
     "Image": "",
@@ -3346,11 +3341,6 @@
     "Id": 80002849530993,
     "Image": "",
     "TrackId": "2EnmVTesg4fTezcJXUJoNE "
-  },
-  "พะวง" : {
-    "Id": 83076759093981,
-    "Image": "",
-    "TrackId": "497rB7IaFw5T3w3CIViAMw "
   },
   "ไม่ให้เธอไป" : {
     "Id": 124359510977201,
@@ -3396,11 +3386,6 @@
     "Id": 101306863365865,
     "Image": "",
     "TrackId": "7lhtZRCebSaeNENYJE4hlQ "
-  },
-  "เหนื่อยไหมหัวใจ (" : {
-    "Id": 78462769857390,
-    "Image": "",
-    "TrackId": "178QIGF42JfOV4W3NtwXBH "
   },
   "รักเธอไปทุกวัน" : {
     "Id": 117690410390064,
@@ -3448,12 +3433,12 @@
     "TrackId": "6rbQS8qTTYQlqkxml0HZjH "
   },
   "คลาด" : {
-    "Id": 101708147772284,
+    "Id": 134385491938406,
     "Image": "",
     "TrackId": "1ObIFPQfnQvf6ePgYpI3Ig "
   },
   "เป็นทุกอย่าง" : {
-    "Id": 134385491938406,
+    "Id": 122780367553346,
     "Image": "",
     "TrackId": "0GXpsT6ln357KkxsD7SzqM "
   },
@@ -3472,11 +3457,6 @@
     "Image": "",
     "TrackId": "1dOcwXlvc2fEYj22fhF52g "
   },
-  "ไม่รักจำได้" : {
-    "Id": 124305578279451,
-    "Image": "",
-    "TrackId": "3e6r4RxdfIjzEUe9QQp5Hu "
-  },
   "สงสัยอยากได้แฟน" : {
     "Id": 92551365520329,
     "Image": "",
@@ -3486,11 +3466,6 @@
     "Id": 136188074480519,
     "Image": "",
     "TrackId": "1ZLJMlGfk2oOCi48BjFHB8 "
-  },
-  "ตั้งสติ" : {
-    "Id": 116510725183497,
-    "Image": "",
-    "TrackId": "1ZdpgqfDI92dqKnk7dJvh6 "
   },
   "ฟ้าร้อง" : {
     "Id": 118439504475560,
@@ -3576,22 +3551,10 @@
     "TrackId": "6DYmZtsh68vmcI3JMpK5CN "
   }
   ,
-  "พี่น้อง" : {
-    "Id": 110859089703099,
-    "Image": "",
-    "TrackId": "6NZWbrgkY1CRoKkgYnJleV "
-  }
-  ,
   "ตกกะใจทำได้ลง" : {
     "Id": 98381440114759,
     "Image": "",
     "TrackId": "7s9HxP7Oi2S5RpnEdQ3E6v "
-  }
-  ,
-  "ลบนาทีที่มีเธอ" : {
-    "Id": 103832147174353,
-    "Image": "",
-    "TrackId": "3ZubgHfI7JhpLk9a4bmM8V "
   }
   ,
   "รักเธอหัวทิ่มบ่อ" : {
@@ -3619,11 +3582,6 @@
     "Image": "",
     "TrackId": "5Gxe1GjJ6pfaDsHwL52YVB "
   },
-  "ลืมกันแล้วหรือยัง" : {
-    "Id": 122096723266584,
-    "Image": "",
-    "TrackId": "0CJYj4peQVY6cjl1KK6oih "
-  },
   "ดาวเดิม" : {
     "Id": 111491382379573,
     "Image": "",
@@ -3643,11 +3601,6 @@
     "Id": 130112861230360,
     "Image": "",
     "TrackId": "6fReIPoy2szNZDuFwayrId "
-  },
-  "หากันจนเจอ" : {
-    "Id": 79922898116322,
-    "Image": "",
-    "TrackId": "7z620qlo3tBCS7q5tJwcb2 "
   },
   "พูดไม่ได้สักที" : {
     "Id": 70884750624425,
@@ -3684,20 +3637,10 @@
     "Image": "",
     "TrackId": "6S87Lo8oF2snbQgvw7HZ14 "
   },
-  "กาลเวลาพิสูจน์คน " : {
-    "Id": 72414775592976,
-    "Image": "",
-    "TrackId": "2XdusMZ5PaWcPCfCmu8pMX "
-  },
   "ไม่เดียงสา" : {
     "Id": 79379364843326,
     "Image": "",
     "TrackId": "4oHA8Rt4a6cd1fDEdjNJB6 "
-  },
-  "ส่งเพลงนี้มาบอกฝันดี" : {
-    "Id": 78464576031157,
-    "Image": "",
-    "TrackId": "3qWSUZsTAS2Al3f0uAENUC "
   },
   "คืนให้" : {
     "Id": 98533776591844,
