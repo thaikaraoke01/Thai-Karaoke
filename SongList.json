@@ -3627,11 +3627,6 @@
     "Image": "rbxassetid://116413011354154",
     "TrackId": "3PqDjbOyw6VV6ifq7FzepJ"
   },
-  "ทำอะไรสักอย่าง" : {
-    "Id": 96374943338015,
-    "Image": "rbxassetid://108219505330384",
-    "TrackId": "7LjJ6i2eyDEFwPHgr5q0dy"
-  },
   "ดีซะกว่า" : {
     "Id": 82158208920483,
     "Image": "rbxassetid://105929334449036",
@@ -3706,11 +3701,6 @@
     "Id": 84029046703586,
     "Image": "rbxassetid://102107722064249",
     "TrackId": "2AIBpF1zujrg9Vf31DYnko"
-  },
-  "เพียงรัก" : {
-    "Id": 115843759446258,
-    "Image": "rbxassetid://112686059844786",
-    "TrackId": "0WCdXhtkz6PNTF3hXARTYd"
   },
   "แป๊บนึง" : {
     "Id": 121323435624854,
@@ -3787,7 +3777,7 @@
     "Image": "rbxassetid://132076321071595",
     "TrackId": "1FhxX1Su9kwKFEqM4qqEJ6"
   },
-  " ไม่อยากชิน" : {
+  "ไม่อยากชิน" : {
     "Id": 75779270686994,
     "Image": "rbxassetid://101250298037006",
     "TrackId": "59w6QGeT5t1vadCulmUSXu"
@@ -3802,20 +3792,10 @@
     "Image": "rbxassetid://110274691602041",
     "TrackId": "1X7eaoPqnfCVtlyZnndUb9"
   },
-  "น้ำเต็มแก้ว" : {
-    "Id": 131944253741956,
-    "Image": "rbxassetid://73585718057801",
-    "TrackId": "7MJdWugku6Qt1zRtkAXq9Z"
-  },
   "วิชาตัวเบา" : {
     "Id": 78084893755458,
     "Image": "rbxassetid://114094933602304",
     "TrackId": "0XGg42DmeN3abO2ygHYsp5"
-  },
-  "น้ำซึมบ่อทราย" : {
-    "Id": 114191007998656,
-    "Image": "rbxassetid://101995383687062",
-    "TrackId": "56tzSzeDjLLFjozC96eqXN"
   },
   "ช่างไม่รู้เลย" : {
     "Id": 71252403594758,
@@ -3832,9 +3812,9 @@
     "Image": "rbxassetid://105969755749513",
     "TrackId": "3BImdvqPuZSnuWamDuZh35"
   },
-  "เหนื่อยก็พัก" : {
+  "เหนื่อยก็พัก ไม่รักก็พอ" : {
     "Id": 104212336042579,
-    "Image": "rbxassetid://134449008568077",
+    "Image": "rbxassetid://74661057828821",
     "TrackId": "4uqnqAxW1ss7vcDmfV5cWM"
   },
   "เมื่อเขามา...ฉันจะไป" : {
